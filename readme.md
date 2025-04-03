@@ -1,5 +1,14 @@
 ### This is a project that generates a .ics (ICalendar) file for B.S. dates and maps it to the corresponding A.D. dates as events.
 
+### Contents:
+
+- [Project Overview](#project-overview)
+- [Usage](#usage)
+  - [Method 1: Manually seting up python env](#method-1-manually-seting-up-python-env)
+  - [Method 2: Copy the pre-built virtual environment](#method-2-copy-the-pre-built-virtual-environment)
+  - [Method 3: Use generated .ics file](#method-3-use-generated-ics-file)
+- [Customization](#cutomization)
+
 ## Usage:
 
 ### Method 1: Manually seting up python env
